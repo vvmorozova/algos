@@ -3,7 +3,7 @@
 int main(void)
 {
     // char    num1[MAX], num2[MAX];
-    int n = 9;
+    int n = 100;
     // memset(num1, '0', MAX);
     // memset(num2, '0', MAX);
     // num1[MAX - 1] = 0;

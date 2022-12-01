@@ -9,7 +9,7 @@ HEADER_DIR	=	inc
 
 CC			=	gcc
 
-FLAGS		=	-g -Wall -Werror -Wextra -I $(HEADER_DIR)
+FLAGS		=	-g  -Wextra -I $(HEADER_DIR)
 
 RM			=	rm -f
 
